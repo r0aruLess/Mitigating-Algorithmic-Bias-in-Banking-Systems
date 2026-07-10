@@ -1,6 +1,6 @@
 # Enterprise AI Governance: Mitigating Algorithmic Bias in Banking Systems
 
-An Academic Major Project implementing a 30% AI Engineering and 70% GRC (Governance, Risk, and Compliance) architecture using **COBIT 2019** and the **NIST AI Risk Management Framework (AI RMF)**.
+A Mini Project implementing a 30% AI Engineering and 70% GRC (Governance, Risk, and Compliance) architecture using **COBIT 2019** and the **NIST AI Risk Management Framework (AI RMF)**.
 
 ---
 
